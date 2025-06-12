@@ -1,7 +1,7 @@
 // journal.js - Simple journal saving functionality for Freewrite app
 
 // Make.com webhook URL (replace with your actual webhook URL)
-const WEBHOOK_URL = 'https://example.com';
+const WEBHOOK_URL = 'https://hook.eu1.make.com/ybatru1rg16a5c2ddvefftrgoyqdb54f';
 
 // Save journal function
 async function saveJournal() {
